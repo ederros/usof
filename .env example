@@ -1,0 +1,8 @@
+DB_HOST = localhost
+DB_USER = root 
+DB_PASSWORD = 12345678
+DB_NAME = usof
+PORT = 5050
+MAIL = server@gmail.com
+MAIL_PASS = application_password
+JWT_SECRET = super_secret_code
