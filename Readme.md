@@ -47,7 +47,7 @@ Use the following command:
  
 mysql -u your_username -p < db_init.sql
 
-![Database EER diagram](https://ibb.co/6D4qg8T)  
+![Database EER diagram](https://i.ibb.co/6D4qg8T/image.png)  
 
 ## Running the Application
 To start the API server, run the following command in the root directory of your project:
