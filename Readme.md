@@ -2,6 +2,8 @@
 
 USOF API is a Node.js application that serves as a backend for a user management and content system. It includes functionality for user authentication, content creation, and management of posts, comments, and likes.
 
+[Documentation](https://docs.google.com/document/d/173Skh8qGYqlsot5aX7_gmcVbsIVWmVR2SFoQUqDlUbA/edit?usp=sharing)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -126,3 +128,4 @@ POST /api/comments/like - Like a comment
 PATCH /api/comments/ - Update a comment
 DELETE /api/comments/ - Delete a comment
 DELETE /api/comments/like - Remove like from a comment
+
